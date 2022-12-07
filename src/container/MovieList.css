@@ -1,0 +1,96 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Ms+Madi&display=swap'); 
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+.container{
+    display: inline-grid;
+    align-items: center;
+    justify-content: center;
+    place-items: center;
+    background-color: black;
+
+}
+.container_item{
+    border: 1px solid black;
+    padding: 10px;
+    height: 350px;
+    width: 400px;
+    align-items: center;
+    text-align: center;
+    background-color: #CC9588;    
+    margin: 25px;
+    border-radius: 20px;
+    cursor: pointer;
+}
+.img{
+    height: 200px;
+    border-radius: 10px;
+}
+.container_h1{
+    margin-top: 20px;
+}
+.container_p{
+    margin-top: 10px;
+}
+.Container_navbar{
+    position: sticky !important;
+    top: 0;
+    padding: 10px;
+    display: flex;
+    background-color: #DB5A60;
+    border-bottom: 1px solid black;
+}
+.logo{
+    font-family: 'Lobster', cursive;
+    font-family: 'Ms Madi', cursive;
+    font-weight: 900;
+    flex: 1;
+    cursor: pointer;
+}
+.input_flield{
+    border: 1px solid black;
+    margin-right:20px ;
+    align-items: center;
+    border-radius: 999px;
+}
+.input{
+    width: 500px;
+    height: 50px;
+    border: none;
+    background-color: transparent;
+    resize: none;
+    outline: none;
+    text-align: center;
+    font-size: 40px;
+    text-transform: capitalize; 
+    font-family: 'Lobster', cursive;
+    cursor: pointer;    
+}
+.btn{
+    background-color: transparent;
+    border: none;
+    margin-right: 10px;
+    cursor: pointer;    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
